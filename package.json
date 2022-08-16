@@ -1,0 +1,23 @@
+{
+  "name": "starplus-landing",
+  "version": "1.0.0",
+  "description": "A Star+ landing page clone",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/isadfrn/starplus-landing.git"
+  },
+  "author": "isadfrn",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/isadfrn/starplus-landing/issues"
+  },
+  "homepage": "https://github.com/isadfrn/starplus-landing#readme",
+  "dependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
